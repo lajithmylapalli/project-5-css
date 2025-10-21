@@ -1,0 +1,288 @@
+.options{
+    
+background-color:#f2f0ec;
+line-height:50px;
+/*position:fixed;*/ 
+top:0px;
+width:20%;
+height:100%;
+align-content: center;
+padding-left: 50px;
+}
+.profilepic{
+    width:100px;
+    height:100px;
+    background-color:black;
+    border-radius:50px;
+    background-image:url(images/p1.jpg);
+    background-position:center;
+    background-size:cover;
+}
+.pil{
+    font-size:50px;
+    
+}
+.one{
+line-height:30px;
+}
+.info div:hover{
+    border:1px black solid;
+    gap:2px;
+    border-radius:6px;
+    padding-left:15px;
+    background-color:rgb(247, 247, 246);
+}
+.mar{
+   width:80%;
+   padding-top:10%;
+   padding-bottom:5%;
+}
+.pro{
+    width:50%;
+}
+.pro img{
+    width:100%;
+    padding-right:15%;
+}
+.biog{
+    display:flex;
+    align-items:center;
+    justify-content:flex;
+    line-height:2em;
+}
+
+.b{
+    justify-content:center;
+    width:50%;
+
+}
+.ad{
+    display:flex;
+}
+.main{
+    display:flex;
+}
+.nam{
+    width:70%;
+    padding-left:15%;
+}
+.photo{
+    width:70%;
+}
+.nam >div{
+    padding-bottom:50px;
+
+}
+.bio{
+    color:orange;
+}
+.auth{
+    border-left:5px orange solid;
+    padding-left:20px;
+    padding-bottom:0;
+}
+.author{
+    color:grey;
+}
+/* 2nd page*/
+.about{
+    display:flex;
+}
+.page{
+    padding-bottom:10%;
+}
+.about{
+    display:flex;   
+    justify-content:center;
+    height:auto;
+    gap:150px;
+}
+.aca{
+    font-weight:bold;
+    font-size:30px;
+    border-bottom:3px orange solid;
+    margin-bottom:50px;
+
+}
+.teach{
+    font-weight:bold;
+    font-size:20px;
+}
+.education{
+     font-weight:bold;
+    font-size:30px;
+    border-bottom:3px orange solid;
+    margin-bottom:50px;
+}
+.gap{
+    margin-bottom:50px;
+    margin-left:100px;
+}
+.rewards{
+display:flex;
+justify-content:center;
+gap:50px;
+padding:50px;
+}
+.blo{
+    font-weight:bold;
+    font-size:30px;
+    border-bottom:3px orange solid;
+    height:35px;
+}
+.rew-name{
+    font-weight:bold;
+    font-size:30px;
+}
+.rew-year{
+    font-weight:bold;
+    font-size:30px;
+}
+.work-title{
+    display:flex;
+    font-weight:bold;
+    font-size:50px;
+    justify-content:center;
+    margin-top:150px;
+    margin:50px;
+}
+.img-one{
+    display:flex;
+}
+.work-all{
+    margin-left:25px;
+}
+.work-all>div{
+
+    margin-bottom:20px; 
+}
+.exp{
+   display:flex;
+    font-weight:bold;
+    font-size:50px;
+    justify-content:center;
+    margin-top:200px;
+    padding-top:100px;
+    margin:50px;
+}
+.experience{
+    display:flex;
+    justify-content:center;
+    gap:100px;
+}
+.experience-data{
+    line-height:60px;
+}
+.blocks{
+    margin:100px;
+}
+.sup{
+    display:flex;
+    padding-bottom:50px;
+}
+.lead{
+    display:flex;
+}
+.heading{
+    font-weight:bold;
+    font-size:20px;
+}
+.def{
+    color:grey;
+}
+.math,.longtime,.loyality,.hard,.leadership,.speaker{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+    padding-right:40px;
+}
+.journel{
+    margin:100px;
+}
+.jour{
+    font-weight:bold;
+    font-size:50px;
+    display:flex;
+    padding:50px;
+    justify-content:center;
+}
+.moll>div{
+    padding:25px;
+    line-height:35px;
+    background-color:#f2efef;
+    margin:25px;
+}
+.research{
+    font-weight:bold;
+    font-size:50px;
+    display:flex;
+    padding:50px;
+    justify-content:center;
+}
+.latest{
+    font-weight:bold;
+    font-size:50px;
+    display:flex;
+    padding:50px;
+    justify-content:center;
+}
+.combine{
+    display:flex;
+    margin:100px;
+    justify-content:center;
+    margin:10px;
+}
+.sum>div{
+    margin-bottom:30px;
+    line-height:25px;
+}
+
+.pop>div{
+    display:flex;
+    flex-wrap:wrap;
+margin-bottom:25px;
+}
+.min>div{
+   display:flex;
+   margin:3px;
+   border:1px #ccc solid;
+   padding-top:5px;
+   padding-bottom:5px;
+   padding-right: 10px;
+   padding-left:10px;
+   border-radius:15px;
+}
+.how,.why{
+    display:flex;
+}
+.blog-one,.blog-two,.blog-three,.blog-four{
+    display:flex;
+    flex-direction:column;
+    width:40%;
+    height:40%
+}
+.pel>div{
+    margin:25px;
+    margin-left:0;
+}
+.final{
+    font-weight:bold;
+    font-size:50px;
+    display:flex;
+    padding:50px;
+    justify-content:center;
+}
+.my-office{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+}
+.follow{
+    line-height:50px;
+}
+.facebook>div{
+    border-bottom:1px #ccc solid;
+}
+.information{
+    line-height:30px;
+}
